@@ -38,7 +38,7 @@ try:
     print('the server is running, use <Ctrl-C> to stop')
     serv.serve_forever()
 except KeyboardInterrupt:
-    print("the server is stopped")
+    print("the server is stop")
 
 
 
